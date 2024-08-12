@@ -1,0 +1,52 @@
+*{
+    margin-left: 5;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+div {
+}
+.GBR{
+    width: 600px;
+    background-image: url("./image/GBR.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-size:200px;
+}
+.ITA{
+    width: 600px;
+    background-image: url("./image/ITA.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-size:200px;
+}
+.GER{
+    width: 600px;
+    background-image: url("./image/GER.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-size:200px;
+}
+.CZE{
+    width: 600px;
+    background-image: url("./image/CZE.jpg");
+    background-size: cover;
+    background-repeat:repeat;
+    background-size:200px;
+}
+
+p{
+
+}
+.ph{
+    color:red;
+}
+.pf{
+    color:blue;
+}
+.pt{
+    color:green;
+}
+
+
